@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\bin\Debug\NET_hw9_TrafficLight.exe.config
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\bin\Debug\NET_hw9_TrafficLight.exe
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\bin\Debug\NET_hw9_TrafficLight.pdb
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.Form1.resources
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.exe
+C:\Users\USER\source\repos\NET_hw9_TrafficLight\NET_hw9_TrafficLight\obj\Debug\NET_hw9_TrafficLight.pdb
